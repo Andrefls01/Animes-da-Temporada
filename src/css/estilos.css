@@ -61,6 +61,12 @@ body {
     border-color: #fff;
 }
 
+.botoes-carrossel .botao:hover {
+    color: #25b9be;
+    border: 1px solid #187720;
+    transform: scale(1.8);
+}
+
 .botoes-carrossel .botao.selecionado {
     background-color: green;
 
